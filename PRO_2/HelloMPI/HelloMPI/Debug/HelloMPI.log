@@ -1,0 +1,6 @@
+﻿  Code.cpp
+c:\users\andik\source\repos\hellompi\hellompi\code.cpp(34): warning C4101: 'Start': unreferenced local variable
+c:\users\andik\source\repos\hellompi\hellompi\code.cpp(34): warning C4101: 'Finish': unreferenced local variable
+c:\users\andik\source\repos\hellompi\hellompi\code.cpp(34): warning C4101: 'Duration': unreferenced local variable
+c:\users\andik\source\repos\hellompi\hellompi\code.cpp(57): warning C4101: 'i': unreferenced local variable
+  HelloMPI.vcxproj -> C:\Users\Andik\source\repos\HelloMPI\Debug\HelloMPI.exe
